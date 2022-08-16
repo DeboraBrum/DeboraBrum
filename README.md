@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Debora 👋
 
-- 🌱 Sou uma desenvolvedora fullStack em desenvolvimento, atualmente aprofundando meus conhecimentos em React e desenvolvimento de API's com Node.js
+- 🌱 Sou uma desenvolvedora back end, atualmente aprofundando meus conhecimentos em Java e SpringBoot
 
 ##
   
